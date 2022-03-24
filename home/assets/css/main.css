@@ -4384,12 +4384,12 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .course__tag span:first-child {
-  color: #ff0019;
+  color: #7b0ea7;
   background-color: #9795ff3a;
 }
 
 .course__tag span:nth-child(2) {
-  color: #ff5e00;
+  color: #ff0000;
   background-color: #9795ff3a;
 }
 

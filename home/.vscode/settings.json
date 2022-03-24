@@ -1,0 +1,8 @@
+{
+    "editor.wordWrap": "on",
+    "html.format.wrapAttributes": "force-aligned",
+    "editor.wordWrapColumn": 50,
+    "workbench.editor.wrapTabs": true,
+    "html.format.wrapAttributesIndentSize": 30,
+    "html.format.wrapLineLength": 80
+}
