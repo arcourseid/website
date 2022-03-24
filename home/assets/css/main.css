@@ -912,7 +912,7 @@ section-title
   display: none;
 }
 
-.navbar-nav .nav-item .nav-link::before {
+.navbar-nav .nav-item:nth-child(2) .nav-link::before {
   content: '\f078';
   position: absolute;
   font-family: "Font Awesome 5 pro";
