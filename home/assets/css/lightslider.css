@@ -152,11 +152,11 @@
 
 /* slider actions */
 .lSAction > a {
-    width: 32px;
+    width: 42px;
     display: block;
     top: 50%;
-    height: 32px;
-    background-image: url('../img/controls.png');
+    height: 50px;
+    background-image: url('../img/Artboard 1@72x.png');
     cursor: pointer;
     position: absolute;
     z-index: 99;

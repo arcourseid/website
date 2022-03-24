@@ -1168,7 +1168,7 @@ section.page-title-area {
 }
 
 .page-title-wrapper .page-title {
-  color: #1B212F;
+  color: #ffffff;
   font-size: 44px;
   z-index: 1;
 }
@@ -1180,7 +1180,7 @@ section.page-title-area {
 }
 
 ul.breadcrumb li a {
-  color: #1B212F;
+  color: #ffbf0e;
   font-size: 18px;
   line-height: 1;
   display: inline-block;
@@ -2851,7 +2851,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .sl-shape.shape_04 {
-  left: 1%;
+  left: 0%;
   top: 607px;
   -webkit-animation: float-bob-y infinite 5s linear;
           animation: float-bob-y infinite 5s linear;
